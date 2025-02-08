@@ -13,7 +13,7 @@
 4. **As a first-time pet parent, I want a built-in symptom checker so that I can quickly determine if my pet needs urgent care.
 5. **As a cost-conscious individual, I want transparent price estimates for various vet services so that I can plan my budget accordingly.
 6. **As a caring owner, I want access to articles and videos about preventative care so that I can keep my pet healthy and avoid emergencies.
-
+ 
 ## Potential Features Expansion
 
 7. **As a frequent traveler, I want a location-based clinic finder so that I can easily locate reputable vets wherever I am.
