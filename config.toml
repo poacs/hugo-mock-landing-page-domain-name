@@ -18,6 +18,9 @@ enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
 
+[params]
+  Description = "Your one-stop platform for urgent veterinary care and pet wellness resources!"
+
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   lastmod = ["lastmod", ":fileModTime", ":default"]
